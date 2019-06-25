@@ -1,2 +1,2 @@
-# Heroku-HeadHunters-api
-Project ready to heroku deploy
+# HeadHunter-api
+This is the api of HeadHunters app
