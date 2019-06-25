@@ -3,47 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d4471e7d-e7b7-46aa-9813-2c2815910c3a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/HeadhuntersApplication$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/HeadhuntersApplication$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/HeadhuntersApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/HeadhuntersApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/controller/AlbumController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/controller/AlbumController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/controller/ProfileController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/controller/ProfileController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/exception/CustomResponseEntityExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/exception/CustomResponseEntityExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/exception/InvalidLoginResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/exception/InvalidLoginResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/exception/ResourceNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/exception/ResourceNotFoundException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/exception/UsernameAlreadyExistsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/exception/UsernameAlreadyExistsException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/exception/UsernameAlreadyExistsResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/exception/UsernameAlreadyExistsResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/model/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/model/Album.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/model/Profile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/model/Profile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/model/Song.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/model/Song.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/payload/JWTLoginSuccessResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/payload/JWTLoginSuccessResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/payload/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/payload/LoginRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/repository/AlbumRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/repository/AlbumRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/repository/ProfileRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/repository/ProfileRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/repository/SongRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/repository/SongRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/repository/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/security/JwtAuthenticationEntryPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/security/JwtAuthenticationEntryPoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/security/JwtAuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/security/JwtAuthenticationFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/security/JwtTokenProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/security/JwtTokenProvider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/security/SecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/service/Interfaces/IAlbumService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/service/Interfaces/IAlbumService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/service/Interfaces/IProfileService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/service/Interfaces/IProfileService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/service/Interfaces/IService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/service/Interfaces/IService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/AlbumService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/AlbumService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/CustomUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/CustomUserDetailsService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/MapValidationErrorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/MapValidationErrorService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/ProfileService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/ProfileService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/SongService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/SongService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/service/impl/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/headhunters/validator/UserValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/headhunters/validator/UserValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/headhunters-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/headhunters-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.headhunters.HeadhuntersApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.headhunters.HeadhuntersApplicationTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.headhunters.HeadhuntersApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.headhunters.HeadhuntersApplicationTests.txt" afterDir="false" />
     </list>
@@ -83,8 +45,8 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state>
+              <caret selection-end-line="7" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -294,12 +256,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561056503988</updated>
       <workItem from="1561056509103" duration="1949000" />
-      <workItem from="1561500035385" duration="414000" />
+      <workItem from="1561500035385" duration="1829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2363000" />
+    <option name="totallyTimeSpent" value="3778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -307,9 +269,9 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Flutter Outline" order="3" weight="0.32995737" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
@@ -329,7 +291,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297062" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1433902" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.32995737" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -347,6 +309,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -398,10 +364,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state>
+          <caret selection-end-line="7" selection-end-column="64" />
         </state>
       </provider>
     </entry>
