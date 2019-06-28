@@ -13,4 +13,6 @@ public interface IAlbumService extends IService<Album> {
     Album saveAlbumWithOwner(Album album, String owner);
 
     Iterable<Album> getByGenre(String genre);
+
+    void delete(Long id);
 }

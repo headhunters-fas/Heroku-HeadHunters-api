@@ -12,5 +12,6 @@ public interface IService<T> {
     T findById(Long id);
 
     void delete(Long id, String owner);
+
 }
 

@@ -1,6 +1,7 @@
 package com.headhunters.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import org.hibernate.validator.constraints.Length;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
@@ -24,6 +25,7 @@ public class Album {
     private String thumbnailImage;
     private int likes;
     private String genre;
+    @Length(min = 5, max = 500)
     private String description;
 
     @OneToMany(mappedBy = "album", fetch = FetchType.LAZY, cascade = CascadeType.ALL)

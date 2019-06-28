@@ -65,6 +65,12 @@ public class AlbumController  {
     @GetMapping("/users/albums/all")
     public Iterable<Album> getAllUserAlbums(Principal principal){return albumService.findAllAlbums(principal.getName());}
 
+    @DeleteMapping("/albums/{albumId}")
+    public ResponseEntity<?> deleteByAlbumId(@PathVariable Long albumId){
+        albumService.delete(albumId);
+        return new ResponseEntity<String>("album with ID: '" + albumId + "' was deleted", HttpStatus.OK);
+    }
+
     @DeleteMapping("/users/albums/{albumId}")
     public ResponseEntity<?> deleteUserAlbumById(@PathVariable Long albumId, Principal principal){
         albumService.delete(albumId, principal.getName());

@@ -71,6 +71,9 @@ public class AlbumService implements IAlbumService {
     //For a particular user
 
     @Override
+    public void delete(Long albumId){albumRepository.delete(findById(albumId));}
+
+    @Override
     public void delete(Long albumId, String username) {
         albumRepository.delete(findAlbumById(albumId, username));
     }
